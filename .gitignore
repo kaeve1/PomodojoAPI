@@ -1,0 +1,9 @@
+
+assets/json/
+
+*.exe
+
+.vscode/
+
+Thumbs.db
+.DS_Store
